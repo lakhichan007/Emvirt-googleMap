@@ -1,12 +1,10 @@
-import MyMap from "./components/map";
-import Mymap1 from "./components/map1";
-// import Map1 from "./components/map1";
 
+import MyMap from './components/map';
 function App() {
   return (
-    <>
-    <MyMap/>
-    </>
+  <>
+  <MyMap/>
+  </>
   );
 }
 
